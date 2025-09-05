@@ -1,3 +1,11 @@
+/*
+ * Name: Huthsady Legend Boun
+ * Professor Grace A. Comp
+ * Class: CISP-2410-SVC
+ * Date: 4 September 2025
+ * Description: Takes any 16-bit binary number and converts it to its decimal form.
+*/
+
 #include <iostream>
 #include <string>
 
