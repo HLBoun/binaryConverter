@@ -1,0 +1,40 @@
+Critical Thinking
+
+Huthsady Legend Boun
+Professor Grace A. Comp
+Assembly 2410
+2 September 2025
+
+
+Requirements:
+  
+  - Function receives 16-bit binary as a string
+  - Function returns decimal value of the binary number
+  - Call the function from a "driver" main program
+
+
+First Thoughts:
+  
+  - I dont know what a driver program is.
+  - Binary is easy (thankfully)
+  - Ive encountered the string-to-integer problem many times
+      before, and want to figure a good solution for this use-case.
+  - I know from previous knowledge is that strings are actually just
+      arrays of chars. 
+
+
+Steps:
+  
+  0.) At the top of the paper goes my name....with the date!
+  1.) Definitely need <string> and <Iostream> so go ahead and 
+        lay those out, along with the main function.
+  2.) Make a function that accepts input for the binary.
+        Have it check size of string (for 16bit?)
+  3.) Make another function that parses through the string and 
+        if the string[i] is == '1' then runningTotal += powersTwo[i]
+  4.) Call the function in int main()
+
+Notes:
+  
+  - Apparently a driver program is just a program that demonstrates
+      a function? Please correct me if i am wrong :/
